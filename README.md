@@ -91,7 +91,7 @@ Recall:    0.950
 F1 score:  0.966  
 
 
-# ResNet-18 (FC Only)
+# ResNet-18 (Full Network)
 •	Training set results:  
 Accuracy of the network on the 12,000 training images: 95 %  
 Confusion Matrix: 
@@ -119,3 +119,7 @@ Confusion Matrix:
 Precision: 0.978  
 Recall:    0.943  
 F1 score:  0.960  
+
+# Dataset
+https://drive.google.com/open?id=1-HQQciKYfwAO3oH7ci6zhg45DduvkpnK&authuser=1
+
