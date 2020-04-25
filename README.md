@@ -25,6 +25,7 @@ Confusion Matrix:
 |--- |--- |--- |
 |    infected    |   589  |       26 |
 |    normal      |   15   |      870 |
+
 Precision: 0.975  
 Recall:    0.958  
 F1 score:  0.966  
@@ -37,6 +38,7 @@ Confusion Matrix:
 |--- |--- |--- |
 |    infected    |   3899  |    1020 |
 |    normal      |   456   |    6625 |
+
 •	  Validation set results:  
 Accuracy of the network on the 1500 validation images: 84 %  
 Confusion Matrix: 
@@ -44,6 +46,7 @@ Confusion Matrix:
 |--- |--- |--- |
 |    infected    |   458  |    157 |
 |    normal      |   79   |    806 |
+
 •	Test set results:  
 Accuracy of the network on the 1500 test images: 90 %  
 Confusion Matrix: 
@@ -51,6 +54,7 @@ Confusion Matrix:
 |--- |--- |--- |
 |    infected    |   515  |  100 |
 |    normal      |   37   |  848 |
+
 Precision: 0.933  
 Recall:    0.837  
 F1 score:  0.883  
@@ -110,6 +114,7 @@ Confusion Matrix:
 |--- |--- |--- |
 |     infected    |   580   |   35 |
 |     normal      |   13    |   872 |
+
 Precision: 0.978  
 Recall:    0.943  
 F1 score:  0.960  
