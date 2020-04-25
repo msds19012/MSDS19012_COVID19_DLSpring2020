@@ -64,7 +64,7 @@ F1 score:  0.883
 # VGG-16 (Full Network)
 •	Training set results:  
 Accuracy of the network on the 12,000 training images: 96 %  
-Confusion Matrix: 
+Confusion Matrix:  
 |true\predicted | infected  |   normal |
 |--- |--- |--- |
 |   infected    |   4609  |    310 |
@@ -73,10 +73,10 @@ Confusion Matrix:
 •	Validation set results:  
 Accuracy of the network on the 1500 validation images: 92 %  
 Confusion Matrix: 
-  |true\predicted|  infected |    normal|
-  |--- |--- |--- |
-     |infected      | 544     | 71|
-     |normal        | 37      | 848|
+| true\predicted|  infected |    normal|
+| --- |--- |--- |
+| infected      | 544     | 71|
+| normal        | 37      | 848|
 
 •	Test set results:  
 Accuracy of the network on the 1500 test images: 97 %  
@@ -85,6 +85,7 @@ Confusion Matrix:
 |--- |--- |--- |
 |     infected    |   584  |       31 |
 |     normal      |   10   |      875 |
+
 Precision: 0.983  
 Recall:    0.950  
 F1 score:  0.966  
