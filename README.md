@@ -135,3 +135,43 @@ https://drive.google.com/open?id=14nVLCJ7dpjymV5flDR3fcdShaGbGIYTH
 # resnet18_entire.pth
 https://drive.google.com/open?id=1--L93Z0AAcvnIRQ-VrqueV7HOSwB-V7W
 
+# Part 2 (with/ without Focal Loss)
+# Dataset
+https://drive.google.com/open?id=1eytbwaLQBv12psV8I-aMkIli9N3bf8nO&authuser=1
+
+# VGG-16 without Focal Loss
+Training Precision: 96.37%  
+Training Recall:    95.95%  
+Training F1-score:  95.94%  
+  
+Validation Precision: 95.11%  
+Validation Recall:    95.34%  
+Validation F1-score:  95.03%  
+
+# ResNet-18 without Focal Loss  
+Training Precision: 94.59%  
+Training Recall:    93.72%  
+Training F1-score:  93.89%  
+  
+Validation Precision: 92.47%  
+Validation Recall:    91.45%  
+Validation F1-score:  91.58%  
+
+
+# VGG-16 with Focal Loss  
+Training Precision: 93.45%  
+Training Recall:    92.38%  
+Training F1-score:  92.42%  
+  
+Validation Precision: 93.42%  
+Validation Recall:    92.52%  
+Validation F1-score:  92.58%  
+
+# ResNet-18 with Focal Loss  
+Training Precision: 93.93%  
+Training Recall:    92.44%  
+Training F1-score:  92.83%  
+  
+Validation Precision: 92.30%  
+Validation Recall:    90.53%  
+Validation F1-score:  91.04%  
