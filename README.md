@@ -139,39 +139,59 @@ https://drive.google.com/open?id=1--L93Z0AAcvnIRQ-VrqueV7HOSwB-V7W
 # Dataset
 https://drive.google.com/open?id=1eytbwaLQBv12psV8I-aMkIli9N3bf8nO&authuser=1
 
-# VGG-16 without Focal Loss
+# VGG-16 without Focal Loss  
 Training Precision: 96.37%  
 Training Recall:    95.95%  
 Training F1-score:  95.94%  
+![Confusion Matrices (training)](https://github.com/msds19012/MSDS19012_COVID19_DLSpring2020/blob/master/images/confusion%20matrix_train_vgg16_CE.png)  
   
 Validation Precision: 95.11%  
 Validation Recall:    95.34%  
-Validation F1-score:  95.03%  
-
+Validation F1-score:  95.03% 
+![Confusion matrices (validation)](https://github.com/msds19012/MSDS19012_COVID19_DLSpring2020/blob/master/images/confusion%20matrix_valid_vgg16_CE.png)
+  
 # ResNet-18 without Focal Loss  
 Training Precision: 94.59%  
 Training Recall:    93.72%  
 Training F1-score:  93.89%  
+![Confusion Matrices (training)](https://github.com/msds19012/MSDS19012_COVID19_DLSpring2020/blob/master/images/confusion%20matrix_train_resnet18_CE.png)
   
 Validation Precision: 92.47%  
 Validation Recall:    91.45%  
 Validation F1-score:  91.58%  
-
-
+![Confusion matrices (validation)](https://github.com/msds19012/MSDS19012_COVID19_DLSpring2020/blob/master/images/confusion%20matrix_valid_resnet18_CE.png)
+  
 # VGG-16 with Focal Loss  
 Training Precision: 93.45%  
 Training Recall:    92.38%  
 Training F1-score:  92.42%  
+![Confusion Matrices (training)](https://github.com/msds19012/MSDS19012_COVID19_DLSpring2020/blob/master/images/confusion%20matrix_train_vgg16_FL.png)
   
 Validation Precision: 93.42%  
 Validation Recall:    92.52%  
 Validation F1-score:  92.58%  
-
+![Confusion matrices (validation)](https://github.com/msds19012/MSDS19012_COVID19_DLSpring2020/blob/master/images/confusion%20matrix_valid_vgg16_FL.png)
+  
 # ResNet-18 with Focal Loss  
 Training Precision: 93.93%  
 Training Recall:    92.44%  
 Training F1-score:  92.83%  
+![Confusion Matrices (training)](https://github.com/msds19012/MSDS19012_COVID19_DLSpring2020/blob/master/images/confusion%20matrix_train_resnet18_FL.png)
   
 Validation Precision: 92.30%  
 Validation Recall:    90.53%  
 Validation F1-score:  91.04%  
+![Confusion matrices (validation)](https://github.com/msds19012/MSDS19012_COVID19_DLSpring2020/blob/master/images/confusion%20matrix_valid_resnet18_FL.png)
+  
+# vgg16_Cross_Entropy.pth
+https://drive.google.com/open?id=10NJKAwp-n2nV2p4DEClgheiU0nG-EqhW
+  
+# vgg16_focal_loss.pth
+https://drive.google.com/open?id=1vJtekSr68rg3TbqQKiBUFlSz3mZf1_RW
+  
+# resnet18_Cross_Entropy.pth
+https://drive.google.com/open?id=1--oSZh8CWddP7-d2nXuVxRdOn1mHfe65
+  
+# resnet18_focal_loss.pth
+https://drive.google.com/open?id=1-7JHA75ixDlahr5YrtHVEQTZh-b3cvNF
+  
